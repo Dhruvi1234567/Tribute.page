@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header {
+    padding-top: 7vh;
+    height: 10vh;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+}
+.img {
+    width: 20%;
+    height: 45%%;
+}
+main {
+    color: aquamarine;
+    background-color: black;
+}
+.mid {
+    display: flex;
+    justify-content: center;
+}
+.mid {
+    display: flex;
+    justify-content: center;
+}
+.max {
+    padding: 10vh 10vh 0vh 10vh;
+    background-color: black;
+}
+.h1 {
+    text-align: center;
+}
+.container {
+    padding: 10vh 10vh 0vh 10vh;
+    color: aquamarine;
+    background-color: black;
+}
